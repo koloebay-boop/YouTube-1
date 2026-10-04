@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Studio AI Agent Fleet",
+  "description": "Autonomous YouTube Studio content management system with multi-model AI agents (Gemini, Claude, GPT-4o), Windows 11 PowerShell CLI, analytics, SEO optimization, and self-learning feedback loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
